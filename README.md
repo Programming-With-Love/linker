@@ -5,6 +5,8 @@
 
 # Todo
 
-[ x ] init blockchain
+- [x] init blockchain
+- [x] 专利 两篇 完成 add CI 
+- [ ] build run
 
-[ X ] add CI 
+
