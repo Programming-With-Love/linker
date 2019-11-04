@@ -16,7 +16,7 @@ cd /usr/local/github/linker
 
 go build
 
-go run main.go'''
+./linker'''
       }
     }
   }
