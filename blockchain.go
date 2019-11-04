@@ -1,6 +1,6 @@
-
-
 package main
+
+
 
 // BlockChain 是一个 Block 指针数组
 type BlockChain struct {
@@ -11,7 +11,7 @@ type BlockChain struct {
 
 // 包含创世区块的 区块链生成 
 func NewBlockchain() *Blockchain {
-	return &Blockchain{[]*Block{NewGenesisBlock()}}
+	return &BlockChain{[]*Block{NewGenesisBlock()}}
 }
 
 

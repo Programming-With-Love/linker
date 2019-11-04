@@ -5,4 +5,5 @@
 
 # Todo
 
- [X] init blockchain
+ [ x ] init blockchain
+ [ X ] add CI 
