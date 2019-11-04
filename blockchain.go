@@ -10,7 +10,7 @@ type BlockChain struct {
 
 
 // 包含创世区块的 区块链生成 
-func NewBlockchain() *Blockchain {
+func NewBlockchain() *BlockChain {
 	return &BlockChain{[]*Block{NewGenesisBlock()}}
 }
 
