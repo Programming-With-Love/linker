@@ -4,9 +4,9 @@
 
 
 # Todo
-
-- [x] init blockchain
-- [x] 专利 两篇 完成 add CI 
-- [ ] build run
+- [x] 熟悉开发环境
+	- [x] init blockchain
+	- [x] add CI 
+	- [x] build run 
 
 
