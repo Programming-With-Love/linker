@@ -19,4 +19,12 @@
 
 
 
-> 未完待续...
+# web 项目
+
+
+
+
+
+# 搜索引擎 
+
+[solr](https://lucene.apache.org/solr/downloads.html)

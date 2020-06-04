@@ -5,10 +5,7 @@ import com.company.project.model.SearcherWebsites;
 import com.company.project.service.SearcherWebsitesService;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 import java.util.List;
@@ -16,6 +13,7 @@ import java.util.List;
 /**
 * Created by CodeGenerator on 2020/05/14.
 */
+@CrossOrigin
 @RestController
 @RequestMapping("/searcher/websites")
 public class SearcherWebsitesController {

@@ -7,6 +7,6 @@
 .idea
 # Test binary, build with `go test -c`
 *.test
-
+springboot-solr/
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
